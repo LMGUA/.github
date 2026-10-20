@@ -15,3 +15,7 @@ GitHub displays `profile/README.md` on the organization overview, with Simplifie
 公开横幅位于 `profile/assets/lmgua-banner.svg`。主页通过绝对地址引用图片，确保在组织概览与仓库文件页均可显示。
 
 The public banner is stored at `profile/assets/lmgua-banner.svg`. Both profiles use its absolute URL so it displays on the organization overview and repository pages.
+
+默认头像使用[红色图形、纯白背景](profile/assets/avatar-light.png)。深色头像保留为备选。
+
+The default avatar uses the [red symbol on pure white](profile/assets/avatar-light.png). The dark avatar remains an alternative.

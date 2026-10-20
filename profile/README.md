@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/lmgua-banner.svg" width="100%" alt="LMGUA · 薄肌全球高校联盟 — Stay Lean, Stay Sharp!" />
+<img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/lmgua-banner.svg?v=1.0.1" width="100%" alt="LMGUA · 薄肌全球高校联盟 — Stay Lean, Stay Sharp!" />
 
 **LMGUA · 薄肌全球高校联盟**<br>
 **简体中文** · [English](https://github.com/LMGUA/.github/blob/main/profile/README.en.md)
