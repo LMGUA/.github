@@ -15,9 +15,9 @@ GitHub 从 `profile/README.md` 展示组织主页，默认使用简体中文。�
 
 GitHub displays `profile/README.md` on the organization overview, with Simplified Chinese as the default. Please keep both language versions in sync.
 
-公开横幅位于 `profile/assets/lmgua-banner.svg`。主页通过绝对地址引用图片，确保在组织概览与仓库文件页均可显示。
+公开横幅位于 `profile/assets/lmgua-banner-light.svg` 和 `profile/assets/lmgua-banner-dark.svg`：红色屈臂图形替代字标中间的 G，中文全名、口号与官网地址排在旁边。主页通过 `<picture>` 选择深浅版本，并通过绝对地址引用图片；点击横幅进入 [lmgua.org](https://lmgua.org/)。
 
-The public banner is stored at `profile/assets/lmgua-banner.svg`. Both profiles use its absolute URL so it displays on the organization overview and repository pages.
+The light and dark public banners use an integrated wordmark with the red arm in place of G, and the name, slogan, and website beside it. Both profiles use a `<picture>` element with absolute asset URLs and link the banner to [lmgua.org](https://lmgua.org/).
 
 默认头像使用[红色图形、纯白背景](profile/assets/avatar-light.png)。深色头像保留为备选。
 
