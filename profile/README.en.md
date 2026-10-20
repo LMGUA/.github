@@ -5,16 +5,10 @@
 
 **Stay Lean, Stay Sharp!**
 
-This is LMGUA’s shared space on GitHub. We hope to bring together community resources, campus activity ideas, and lessons from working together, making it easier to connect across campuses.
+### Hit the books. Hit the gym.
 
-## What we can do together
+LMGUA · 薄肌全球高校联盟 is a meeting place for thin-muscle enthusiasts across campuses. Different schools, different majors: find training partners, talk workouts, and turn “I'll start tomorrow” into “I trained today.”
 
-- **Share resources:** collect useful materials, tools, and practical experience.
-- **Connect campuses:** propose activities, share organizing experience, and find people to take part.
-- **Collaborate openly:** start with a small proposal and develop it through discussion and contributions.
+**Drink water. Sleep well. Train together.**
 
-## Take part
-
-Have a resource to share or an activity you would like to try together? [Open an issue](https://github.com/LMGUA/.github/issues/new) with your idea and the support you are looking for.
-
-Pull requests to [this repository](https://github.com/LMGUA/.github) are also welcome for improvements to the introduction, translations, and public materials.
+Class dismissed. Gym?

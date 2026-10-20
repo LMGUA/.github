@@ -2,11 +2,14 @@
 
 [LMGUA · 薄肌全球高校联盟](https://github.com/LMGUA)的 GitHub 组织主页文案与公开展示素材。
 
-The public GitHub profile and display assets for LMGUA.
+The public community profile and display assets for LMGUA.
+
+LMGUA 是薄肌全球高校联盟的官方社区品牌。本仓库维护社区介绍和品牌展示；品牌语气围绕薄肌文化、训练搭子和校园生活。
+
+LMGUA is the official community identity of 薄肌全球高校联盟. This repository maintains its introduction and visual presentation, with a voice rooted in thin-muscle culture, training partners, and campus life.
 
 - [简体中文 · 组织主页](profile/README.md)
 - [English · Organization profile](profile/README.en.md)
-- [提出建议 · Suggest an activity or resource](https://github.com/LMGUA/.github/issues/new)
 
 GitHub 从 `profile/README.md` 展示组织主页，默认使用简体中文。英文版本位于 `profile/README.en.md`，修改介绍时请同步更新两种语言。
 

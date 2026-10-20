@@ -1,13 +1,13 @@
-# 参与协作 · Contributing
+# 文案与品牌维护 · Profile and brand maintenance
 
-欢迎分享资料、提出校园活动想法，或改进 LMGUA 的公开介绍。
+这里维护 LMGUA 的社区介绍、翻译与公开品牌素材。
 
-Welcome to share resources, propose campus activities, and improve LMGUA's public introduction.
+This repository maintains LMGUA’s community profile, translations, and public brand assets.
 
-- **提建议 / Suggest:** 在 Issue 中说明想做什么、面向谁、希望获得什么支持。Describe the idea, who it is for, and what support would help.
-- **改文案 / Edit:** 同步更新中文与英文介绍；链接到可以公开访问的资料。Keep the Chinese and English profiles aligned, and link to publicly accessible materials.
-- **改视觉 / Visual changes:** 先通过 Issue 讨论，保持 logo、色号和比例一致。Discuss visual changes in an issue first, keeping the logo, colors and proportions consistent.
+- **文案 / Copy:** 简短、直接，带一点薄肌的幽默；围绕训练、搭子和校园生活。Keep it short, direct, and playful, with training, gym buddies, and campus life at its heart.
+- **翻译 / Translation:** 同步维护中英文，保留自然语气。Keep both languages aligned and let the humor read naturally.
+- **视觉 / Visuals:** 使用正式 logo，保持图形比例和红标白底的默认配色。Use the supplied logo, preserve its proportions, and keep red on pure white as the default.
 
-请只提交适合公开分享的内容。未经对方同意，不要公开成员的私人联系方式。
+修正文案或素材可提交 Issue 或 Pull Request；这不是社区入会流程。
 
-Share material intended for public use. Do not publish members' private contact details without their permission.
+Issues and pull requests are for corrections to the copy and assets, not community registration.
