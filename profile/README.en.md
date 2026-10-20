@@ -8,10 +8,12 @@
 
 [简体中文](https://github.com/LMGUA/.github/blob/main/profile/README.md) · **English** · [Website ↗](https://lmgua.org/)
 
-### Hit the books. Hit the gym.
+### Do you train?
 
-Thin-muscle boys and girls from campuses around the world are coming together. Different schools, different majors: find training partners, talk workouts, and turn “I'll start tomorrow” into “I trained today.”
+If you don't train, I don't want to talk to you.
+
+Thin-muscle boys and girls, tell us your school.
 
 **Drink water. Sleep well. Train together.**
 
-Class dismissed. Gym?
+[Join the chat ↗](https://discord.gg/Fwb5dchAw) · [Alan Shao · X ↗](https://x.com/AlanShao111)

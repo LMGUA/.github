@@ -8,10 +8,12 @@
 
 **简体中文** · [English](https://github.com/LMGUA/.github/blob/main/profile/README.en.md) · [官网 ↗](https://lmgua.org/)
 
-### 书照读，铁照举。
+### 你练薄肌吗？
 
-全球高校的薄肌男孩、薄肌女孩，正在集合。不同学校、不同专业，在这里找搭子、聊训练，一起把「明天开始」变成「今天练了」。
+如果你不练薄肌，那我不要和你说话。
+
+薄肌男孩、薄肌女孩，来报个学校。
 
 **喝大水。睡大觉。练薄肌。**
 
-下课了。练吗？
+[进群聊 ↗](https://discord.gg/Fwb5dchAw) · [邵艾伦 Alan · X ↗](https://x.com/AlanShao111)
