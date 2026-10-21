@@ -19,6 +19,10 @@ GitHub displays `profile/README.md` on the organization overview, with Simplifie
 
 The light and dark public banners use an integrated wordmark with the red arm in place of G, and the name, slogan, and website beside it. Both profiles use a `<picture>` element with absolute asset URLs and link the banner to [lmgua.org](https://lmgua.org/).
 
+横幅下的红色 Discord 按钮直接进入 [LMGUA 社区](https://discord.gg/vfB4G7KXdx)。中英文按钮素材为 `profile/assets/discord-join-{zh,en}.svg`，采用 [Discord 官方标志](https://discord.com/branding)。
+
+The red Discord button below each banner opens the permanent LMGUA community invite directly. Keep both button assets and invite links aligned when updating them.
+
 默认头像使用[红色图形、纯白背景](profile/assets/avatar-light.png)。深色头像保留为备选。
 
 The default avatar uses the [red symbol on pure white](profile/assets/avatar-light.png). The dark avatar remains an alternative.

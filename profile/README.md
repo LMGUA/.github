@@ -6,6 +6,12 @@
   </picture>
 </a>
 
+<p>
+  <a href="https://discord.gg/vfB4G7KXdx">
+    <img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/discord-join-zh.svg" width="264" height="52" alt="加入 Discord 社区 ↗" />
+  </a>
+</p>
+
 **简体中文** · [English](https://github.com/LMGUA/.github/blob/main/profile/README.en.md) · [官网 ↗](https://lmgua.org/)
 
 ### 你练薄肌吗？

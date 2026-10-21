@@ -6,6 +6,12 @@
   </picture>
 </a>
 
+<p>
+  <a href="https://discord.gg/vfB4G7KXdx">
+    <img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/discord-join-en.svg" width="264" height="52" alt="Join our Discord ↗" />
+  </a>
+</p>
+
 [简体中文](https://github.com/LMGUA/.github/blob/main/profile/README.md) · **English** · [Website ↗](https://lmgua.org/)
 
 ### Do you train?
