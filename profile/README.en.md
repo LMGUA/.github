@@ -16,4 +16,4 @@ Thin-muscle boys and girls, tell us your school.
 
 **Drink water. Sleep well. Train together.**
 
-[Join the chat ↗](https://discord.gg/Fwb5dchAw) · [Alan Shao · X ↗](https://x.com/AlanShao111)
+[Join the chat ↗](https://discord.gg/Fwb5dchAw) · [Alan Shao · X ↗](https://x.com/AlanShao111) · [Developer roll call ↗](https://github.com/LMGUA/developers)
