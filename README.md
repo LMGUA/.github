@@ -15,9 +15,9 @@ GitHub 从 `profile/README.md` 展示组织主页，默认使用简体中文。�
 
 GitHub displays `profile/README.md` on the organization overview, with Simplified Chinese as the default. Please keep both language versions in sync.
 
-公开横幅位于 `profile/assets/lmgua-banner-light.svg` 和 `profile/assets/lmgua-banner-dark.svg`：红色屈臂图形替代字标中间的 G，中文全名、口号与官网地址排在旁边。主页通过 `<picture>` 选择深浅版本，并通过绝对地址引用图片；点击横幅进入 [lmgua.org](https://lmgua.org/)。
+公开横幅位于 `profile/assets/lmgua-banner-slogan.svg`：左侧为红色屈臂图形替代 G 的 LMGUA 组合字标，右侧为两行大字——白色“如果你不练薄肌”、红色“那我不要和你说话”。横幅在 GitHub 深浅主题中均使用墨黑背景，文字已转为矢量轮廓；点击横幅进入 [lmgua.org](https://lmgua.org/)。
 
-The light and dark public banners use an integrated wordmark with the red arm in place of G, and the name, slogan, and website beside it. Both profiles use a `<picture>` element with absolute asset URLs and link the banner to [lmgua.org](https://lmgua.org/).
+The public banner places the integrated LMGUA wordmark on the left and two large Chinese slogan lines on the right, in white and red. Both profiles keep its dark background in all GitHub themes. All lettering uses vector outlines, and the banner links to [lmgua.org](https://lmgua.org/).
 
 横幅下的红色 Discord 按钮直接进入 [LMGUA 社区](https://discord.gg/vfB4G7KXdx)。中英文按钮素材为 `profile/assets/discord-join-{zh,en}.svg`，采用 [Discord 官方标志](https://discord.com/branding)。
 

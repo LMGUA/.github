@@ -1,9 +1,5 @@
 <a href="https://lmgua.org/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/lmgua-banner-dark.svg?v=1.1.0" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/lmgua-banner-light.svg?v=1.1.0" />
-    <img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/lmgua-banner-light.svg?v=1.1.0" width="100%" alt="LMGUA · 薄肌全球高校联盟 — Stay Lean, Stay Sharp!" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/lmgua-banner-slogan.svg" width="100%" alt="LMGUA · 如果你不练薄肌，那我不要和你说话" />
 </a>
 
 <p>
