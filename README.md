@@ -15,13 +15,13 @@ GitHub 从 `profile/README.md` 展示组织主页，默认使用简体中文。�
 
 GitHub displays `profile/README.md` on the organization overview, with Simplified Chinese as the default. Please keep both language versions in sync.
 
-公开横幅位于 `profile/assets/lmgua-banner-slogan.svg`：左侧为红色屈臂图形替代 G 的 LMGUA 组合字标，右侧为两行大字——白色“如果你不练薄肌”、红色“那我不要和你说话”。横幅在 GitHub 深浅主题中均使用墨黑背景，文字已转为矢量轮廓；点击横幅进入 [lmgua.org](https://lmgua.org/)。
+公开横幅位于 `profile/assets/lmgua-banner-slogan.svg`：左侧为红色屈臂图形替代 G 的 LMGUA 组合字标，logo 正下方以小字标注“薄肌全球高校联盟 · 官方开发者社区”；右侧为两行大字——白色“如果你不练薄肌”、红色“那我不要和你说话”。横幅在 GitHub 深浅主题中均使用墨黑背景，文字已转为矢量轮廓；点击横幅进入 [lmgua.org](https://lmgua.org/)。
 
-The public banner places the integrated LMGUA wordmark on the left and two large Chinese slogan lines on the right, in white and red. Both profiles keep its dark background in all GitHub themes. All lettering uses vector outlines, and the banner links to [lmgua.org](https://lmgua.org/).
+The public banner places the integrated LMGUA wordmark on the left, with 薄肌全球高校联盟 · 官方开发者社区 in small type directly below it. Two large Chinese slogan lines sit on the right, in white and red. Both profiles keep its dark background in all GitHub themes. All lettering uses vector outlines, and the banner links to [lmgua.org](https://lmgua.org/).
 
-README 最上方是一排统一尺寸的按钮，从左到右为[邵艾伦 Alan 的 X](https://x.com/AlanShao111)、[Discord](https://discord.gg/vfB4G7KXdx)、[官方网站](https://lmgua.org/)。X 使用黑底白字与红边框，Discord 使用红底白字，官网使用白底红字；按钮尺寸均为 244 × 52，素材为 `profile/assets/community-{x,discord,website}-{zh,en}.svg`。下方保留 logo 横幅与官方开发者社区定位。
+README 最上方是一排统一尺寸的按钮，从左到右为[邵艾伦 Alan 的 X](https://x.com/AlanShao111)、[Discord](https://discord.gg/vfB4G7KXdx)、[官方网站](https://lmgua.org/)。X 使用黑底白字与红边框，Discord 使用红底白字，官网使用白底红字；按钮尺寸均为 244 × 52，素材为 `profile/assets/community-{x,discord,website}-{zh,en}.svg`。下方保留 logo 横幅，开发者社区定位直接排在 logo 下方，不再单设标题。
 
-The top row contains matching 244 × 52 buttons in this order: Alan Shao’s X, Discord, and the official website. Use white on black with a red border for X, white on red for Discord, and red on white for the website. Keep the logo banner and developer-community heading below, with both language versions aligned.
+The top row contains matching 244 × 52 buttons in this order: Alan Shao’s X, Discord, and the official website. Use white on black with a red border for X, white on red for Discord, and red on white for the website. Keep the logo banner below, with the developer-community subtitle inside the artwork rather than a separate heading. Both language versions share this layout.
 
 默认头像使用[红色图形、纯白背景](profile/assets/avatar-light.png)。深色头像保留为备选。
 

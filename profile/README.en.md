@@ -7,7 +7,5 @@
 </p>
 
 <a href="https://lmgua.org/">
-  <img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/lmgua-banner-slogan.svg" width="100%" alt="LMGUA · 如果你不练薄肌，那我不要和你说话" />
+  <img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/lmgua-banner-slogan.svg?v=2" width="100%" alt="LMGUA · 薄肌全球高校联盟 · 官方开发者社区；如果你不练薄肌，那我不要和你说话" />
 </a>
-
-### LMGUA Official Developer Community
