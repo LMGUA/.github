@@ -1,5 +1,9 @@
 <p>
-  <a href="https://x.com/AlanShao111" title="Alan Shao · X"><img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/link-x.png" width="24" height="24" align="absmiddle" alt="X" />&nbsp; <strong>Alan Shao · X ↗</strong></a>
+  <a href="https://x.com/AlanShao111"><img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/community-x-en.svg" width="244" height="52" alt="Alan Shao · X ↗" /></a>
+  &nbsp;
+  <a href="https://discord.gg/vfB4G7KXdx"><img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/community-discord-en.svg" width="244" height="52" alt="Join Discord ↗" /></a>
+  &nbsp;
+  <a href="https://lmgua.org/"><img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/community-website-en.svg" width="244" height="52" alt="Official website ↗" /></a>
 </p>
 
 <a href="https://lmgua.org/">
@@ -7,9 +11,3 @@
 </a>
 
 ### LMGUA Official Developer Community
-
-<p>
-  <a href="https://discord.gg/vfB4G7KXdx"><img src="https://raw.githubusercontent.com/LMGUA/.github/main/profile/assets/discord-join-en.svg" width="264" height="52" align="absmiddle" alt="Join our Discord ↗" /></a>
-  &nbsp;&nbsp;
-  <a href="https://lmgua.org/"><strong>Website ↗</strong></a>
-</p>

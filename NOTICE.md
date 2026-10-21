@@ -10,4 +10,6 @@ No registered trademark status or third-party affiliation is asserted here.
 
 - The website icon uses the official LMGUA mark.
 - The Discord icon uses the official Clyde symbol from [Discord branding](https://discord.com/branding), also used on the LMGUA website.
-- The X icon is the unmodified [official X favicon](https://x.com/favicon.ico), mirrored from the existing Moqian profile assets. It links to [Alan Shao’s personal X profile](https://x.com/AlanShao111).
+- The X button uses the original white vector mark from the [official X logo package](https://about.x.com/content/dam/about-twitter/x/brand-toolkit/x-logo.zip), linked by the [X brand toolkit](https://about.x.com/es/who-we-are/brand-toolkit). It opens [Alan Shao’s personal X profile](https://x.com/AlanShao111). The earlier standalone PNG is the unmodified [official X favicon](https://x.com/favicon.ico).
+
+Button labels are fixed vector outlines made with locally installed PingFang SC Semibold and Inter Semibold. No font files are bundled. Normal builds reuse `source/community-button-labels.json`.

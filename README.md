@@ -19,10 +19,14 @@ GitHub displays `profile/README.md` on the organization overview, with Simplifie
 
 The public banner places the integrated LMGUA wordmark on the left and two large Chinese slogan lines on the right, in white and red. Both profiles keep its dark background in all GitHub themes. All lettering uses vector outlines, and the banner links to [lmgua.org](https://lmgua.org/).
 
-[邵艾伦 Alan 的 X](https://x.com/AlanShao111) 放在 README 最上方。横幅下保留开发者社区定位、红色 [Discord 加入按钮](https://discord.gg/vfB4G7KXdx)与[官网文字链接](https://lmgua.org/)。Discord 按钮使用 `profile/assets/discord-join-{zh,en}.svg`，X 图标使用 `profile/assets/link-x.png`。
+README 最上方是一排统一尺寸的按钮，从左到右为[邵艾伦 Alan 的 X](https://x.com/AlanShao111)、[Discord](https://discord.gg/vfB4G7KXdx)、[官方网站](https://lmgua.org/)。X 使用黑底白字与红边框，Discord 使用红底白字，官网使用白底红字；按钮尺寸均为 244 × 52，素材为 `profile/assets/community-{x,discord,website}-{zh,en}.svg`。下方保留 logo 横幅与官方开发者社区定位。
 
-Place Alan Shao’s personal X link at the top. Below the banner, keep the developer-community heading, the red Discord join button, and a plain website link. Keep both language versions aligned.
+The top row contains matching 244 × 52 buttons in this order: Alan Shao’s X, Discord, and the official website. Use white on black with a red border for X, white on red for Discord, and red on white for the website. Keep the logo banner and developer-community heading below, with both language versions aligned.
 
 默认头像使用[红色图形、纯白背景](profile/assets/avatar-light.png)。深色头像保留为备选。
 
 The default avatar uses the [red symbol on pure white](profile/assets/avatar-light.png). The dark avatar remains an alternative.
+
+按钮母版包括 `source/icons/` 与 `source/community-button-labels.json`。安装 Python `fontTools` 和 librsvg 后，运行 `python scripts/build-community-buttons.py` 可重建六个 SVG；常规构建无需字体文件。
+
+Button sources live in `source/icons/` and `source/community-button-labels.json`. With Python `fontTools` and librsvg installed, run `python scripts/build-community-buttons.py` to rebuild all six SVGs without font files.
