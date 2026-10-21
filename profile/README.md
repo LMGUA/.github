@@ -16,4 +16,4 @@
 
 **喝大水。睡大觉。练薄肌。**
 
-[进群聊 ↗](https://discord.gg/Fwb5dchAw) · [邵艾伦 Alan · X ↗](https://x.com/AlanShao111) · [开发者留名 ↗](https://github.com/LMGUA/developers)
+[进群聊 ↗](https://discord.gg/8SPcVW3uD) · [邵艾伦 Alan · X ↗](https://x.com/AlanShao111) · [开发者留名 ↗](https://github.com/LMGUA/developers)
