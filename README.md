@@ -19,9 +19,9 @@ GitHub displays `profile/README.md` on the organization overview, with Simplifie
 
 The public banner places the integrated LMGUA wordmark on the left and two large Chinese slogan lines on the right, in white and red. Both profiles keep its dark background in all GitHub themes. All lettering uses vector outlines, and the banner links to [lmgua.org](https://lmgua.org/).
 
-横幅下只保留开发者社区定位和一排带 logo 的入口：[官网](https://lmgua.org/)、[Discord](https://discord.gg/vfB4G7KXdx)、[邵艾伦 Alan 的 X](https://x.com/AlanShao111)。素材为 `profile/assets/link-website.svg`、`link-discord.svg`、`link-x.png`。
+[邵艾伦 Alan 的 X](https://x.com/AlanShao111) 放在 README 最上方。横幅下保留开发者社区定位、红色 [Discord 加入按钮](https://discord.gg/vfB4G7KXdx)与[官网文字链接](https://lmgua.org/)。Discord 按钮使用 `profile/assets/discord-join-{zh,en}.svg`，X 图标使用 `profile/assets/link-x.png`。
 
-Below the banner, keep the developer-community heading and one compact row of logo links to the website, Discord, and Alan Shao’s personal X profile. Keep the links aligned in both languages.
+Place Alan Shao’s personal X link at the top. Below the banner, keep the developer-community heading, the red Discord join button, and a plain website link. Keep both language versions aligned.
 
 默认头像使用[红色图形、纯白背景](profile/assets/avatar-light.png)。深色头像保留为备选。
 
